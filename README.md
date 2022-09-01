@@ -1,3 +1,3 @@
-# test-repository
+# My Very First REPO
 
-This is a read me file.
+I am actually starting to learn this.
